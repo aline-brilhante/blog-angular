@@ -1,0 +1,7 @@
+#img-bg {
+    background-image: url("https://imagens.usp.br/wp-content/uploads/14042014maoscomputadorfotomarcossantos004.jpg");
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
